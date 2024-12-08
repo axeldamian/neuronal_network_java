@@ -12,7 +12,7 @@ public class LeibnixApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LeibnixApplication.class, args);
-		log.info("application initialized");
+		log.info("-------------------application initialized--------------------");
 	}
 
 }
