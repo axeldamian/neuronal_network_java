@@ -46,6 +46,24 @@ What is displayed in Visual Studio to know if the app works:
 How to run from terminal:
 
 
+standing on the directory where the pom.xml is:
+
+
+<img width="429" alt="Captura de pantalla 2024-12-07 a la(s) 22 42 45" src="https://github.com/user-attachments/assets/27c3fce6-7cd5-4717-abeb-b0723d4b372a">
+
+Run the command:
+
+
+ ```
+mvn spring-boot:run
+ ```
+
+
+<img width="509" alt="Captura de pantalla 2024-12-07 a la(s) 22 42 15" src="https://github.com/user-attachments/assets/74e4b5cb-4053-4d61-b689-1ae15a1d5db2">
+
+
+<img width="1024" alt="Captura de pantalla 2024-12-07 a la(s) 22 41 52" src="https://github.com/user-attachments/assets/d746dc04-f5e4-4e48-b241-536771312d51">
+
 
 ## Endpoints
 
