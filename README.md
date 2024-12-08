@@ -33,6 +33,16 @@ how to run with visual studio:
 
 <img width="305" alt="Captura de pantalla 2024-12-07 a la(s) 22 17 34" src="https://github.com/user-attachments/assets/39de8ac9-1d11-473b-a65b-35b403b83838">
 
+
+What is displayed in Visual Studio to know if the app works:
+
+<img width="208" alt="Captura de pantalla 2024-12-07 a la(s) 22 19 19" src="https://github.com/user-attachments/assets/dd673b19-881c-49b8-8a3f-9d951025ee2c">
+
+
+<img width="592" alt="Captura de pantalla 2024-12-07 a la(s) 22 19 08" src="https://github.com/user-attachments/assets/edd8f07f-e551-4057-a002-618b84ed6352">
+
+
+
 How to run from terminal:
 
 
